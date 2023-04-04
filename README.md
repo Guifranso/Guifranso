@@ -5,6 +5,8 @@
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guifranso&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
+##
+
 <div style="display: inline_block">
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
@@ -28,6 +30,8 @@
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img width="50" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
+
+##
 
 <div> 
   <a href="https://instagram.com/franso_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
